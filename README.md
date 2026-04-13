@@ -42,9 +42,9 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: About me :
 
-<h1>
+<h2>
   Data analyst with strong skills in SQL, Python (pandas, NumPy, etc.), Tableau, and great ambition!
-  <img src="https://www.svgrepo.com/show/418517/analytics-chart-growth.svg" width="30px"/>
-</h1>
+  <img src="https://www.svgrepo.com/show/418517/analytics-chart-growth.svg" width="300"/>
+</h2>
