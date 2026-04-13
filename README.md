@@ -43,4 +43,8 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RavvChek&theme=default)](https://git.io/streak-stats)
+
+<h1>
+  Data analyst with strong skills in SQL, Python (pandas, NumPy, etc.), Tableau, and great ambition!
+  <img src="https://www.svgrepo.com/show/418517/analytics-chart-growth.svg" width="30px"/>
+</h1>
