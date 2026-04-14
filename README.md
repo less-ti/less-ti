@@ -45,6 +45,6 @@
 ### :fire: About me :
 
 <h3>
-  Data analyst with strong skills in SQL, Python (pandas, NumPy, etc.), Tableau, and great ambition!
+  Data Analyst with experience in exploratory data analysis, statistical testing, user segmentation, and reporting automation. I work with Python, SQL, pandas, numpy, matplotlib, and Tableau to turn raw data into clear insights and practical solutions.
 </h3>
   <img src="https://www.svgrepo.com/show/418517/analytics-chart-growth.svg" width="170"/>
